@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a93eca32-7650-46dc-8900-1204e0288e95" width="1500px" heigth="50px"/>
+  <img src="https://github.com/user-attachments/assets/a93eca32-7650-46dc-8900-1204e0288e95" width="1500px" heigth="100px"/>
 </div>
 
 # StockOne - Sistema de Automação Inteligente para Restaurantes
@@ -199,7 +199,7 @@ O sistema cria automaticamente um usuário Gestor para facilitar os testes:
 8. **Equipe da cozinha** visualiza o pedido na fila de produção
 9. **Equipe marca o pedido como pronto** quando concluído
 
-## 🚀 Deploy no Azure
+## Deploy no Azure
 
 ### Configuração do Azure
 
