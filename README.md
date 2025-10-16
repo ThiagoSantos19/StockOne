@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a93eca32-7650-46dc-8900-1204e0288e95" width="1500px" heigth="1000px"/>
+  <img src="https://github.com/user-attachments/assets/a93eca32-7650-46dc-8900-1204e0288e95" width="1500px" heigth="500px"/>
 </div>
 
 # StockOne - Sistema de Automação Inteligente para Restaurantes
