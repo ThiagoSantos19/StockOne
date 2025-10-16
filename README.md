@@ -24,7 +24,14 @@ A cada venda, o sistema deduz automaticamente os insumos do inventário com base
 ## Público-Alvo
 
 - **Gestores/Proprietários**: Usam o sistema para configurar, analisar dados e tomar decisões de compra.
+  <div align="center">
+  <img src="https://github.com/user-attachments/assets/4973618d-de4e-4698-8eee-eb4235bf04aa" heigth="100px"/>
+</div>
+
 - **Equipe da Cozinha**: Usa uma interface para visualizar e gerenciar a fila de produção de pedidos.
+  <div align="center">
+  <img src="https://github.com/user-attachments/assets/7b285364-eddd-42f1-8764-5727f986214f" heigth="100px"/>
+</div>
 
 ## Arquitetura e Stack Tecnológica
 
@@ -176,7 +183,7 @@ O sistema cria automaticamente um usuário Gestor para facilitar os testes:
 - **Insumos**: Cadastro, edição, visualização e exclusão de insumos
 - **Produtos**: Cadastro, edição, visualização e exclusão de produtos
 - **Ficha Técnica**: Associação de insumos aos produtos com quantidades específicas
-
+- 
 ### Módulo 3: Lógica de Negócio Principal
 - **EstoqueService**:
   - `DeduzirInsumosPorVenda`: Deduz insumos do estoque com base na venda
