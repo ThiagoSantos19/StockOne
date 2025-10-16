@@ -119,6 +119,17 @@ StockOne.Web/
 - [SQL Server](https://www.microsoft.com/sql-server/sql-server-downloads) ou [SQL Server LocalDB](https://learn.microsoft.com/sql/database-engine/configure-windows/sql-server-express-localdb)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/) ou [Visual Studio Code](https://code.visualstudio.com/)
 
+### Sistema Operacional:
+- Windows 10 (versão 1909 ou superior)
+- macOS (versões mais recentes com suporte)
+- Linux (distribuições populares como Ubuntu 22.04 LTS)
+
+Hardware:
+
+- Processador: 1.8 GHz ou mais rápido. Processador quad-core ou superior recomendado.
+- Memória RAM: Mínimo de 4 GB. Recomendado: 8 GB ou mais para uma experiência fluida ao rodar o Visual Studio, o SQL Server e a aplicação simultaneamente.
+- Espaço em Disco: Mínimo de 15 GB de espaço livre. SSD (Solid State Drive) é fortemente recomendado para performance.
+
 ### Passos de Instalação
 
 1. **Clone o repositório**
