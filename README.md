@@ -269,7 +269,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato através de (email:stockOne@gmail.com).
+Para dúvidas ou sugestões, entre em contato através de (email: stockOne@gmail.com).
 
 ---
 
