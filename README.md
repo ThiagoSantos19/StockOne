@@ -23,14 +23,21 @@ A cada venda, o sistema deduz automaticamente os insumos do inventário com base
 
 ## Público-Alvo
 
-- **Gestores/Proprietários**: Usam o sistema para configurar, analisar dados e tomar decisões de compra.
-  <div align="center">
-  <img src="https://github.com/user-attachments/assets/4973618d-de4e-4698-8eee-eb4235bf04aa" heigth="100px"/>
+### Gestores/Proprietários: Usam o sistema para configurar, analisar dados e tomar decisões de compra.
+
+  <div>
+  <img src="https://github.com/user-attachments/assets/4973618d-de4e-4698-8eee-eb4235bf04aa"  width="900px" heigth="100px"/>
 </div>
 
-- **Equipe da Cozinha**: Usa uma interface para visualizar e gerenciar a fila de produção de pedidos.
-  <div align="center">
-  <img src="https://github.com/user-attachments/assets/7b285364-eddd-42f1-8764-5727f986214f" heigth="100px"/>
+ <div>
+  <img src="https://github.com/user-attachments/assets/801a4318-9d66-4f59-a4f5-636db0c1e75d"  width="900px" heigth="100px"/>
+</div>
+
+
+### Equipe da Cozinha: Usa uma interface para visualizar e gerenciar a fila de produção de pedidos.
+
+  <div>
+  <img src="https://github.com/user-attachments/assets/7b285364-eddd-42f1-8764-5727f986214f"  width="900px" heigth="100px"/>
 </div>
 
 ## Arquitetura e Stack Tecnológica
