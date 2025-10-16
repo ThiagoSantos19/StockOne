@@ -280,42 +280,42 @@ Para dúvidas ou sugestões, entre em contato através de (email: stockOne@gmail
 
 Este glossário define os principais termos, tecnologias e conceitos utilizados no desenvolvimento do StockOne.
 
-### Tecnologias e Frameworks
+## Tecnologias e Frameworks
 
-ASP.NET Core MVC: É o framework principal utilizado para construir a aplicação web. Ele organiza o projeto seguindo o padrão arquitetural MVC (Model-View-Controller), que separa a lógica de negócio (Model), a interface do usuário (View) e o controle do fluxo da aplicação (Controller).
+- ASP.NET Core MVC: É o framework principal utilizado para construir a aplicação web. Ele organiza o projeto seguindo o padrão arquitetural MVC (Model-View-Controller), que separa a lógica de negócio (Model), a interface do usuário (View) e o controle do fluxo da aplicação (Controller).
 
-### Entity Framework Core (EF Core): É o ORM (Object-Relational Mapper) utilizado no projeto. Ele faz a "ponte" entre o código C# (classes como Produto, Insumo) e o banco de dados relacional (tabelas do SQL Server), permitindo manipular o banco de dados usando objetos, sem a necessidade de escrever SQL manualmente.
+- Entity Framework Core (EF Core): É o ORM (Object-Relational Mapper) utilizado no projeto. Ele faz a "ponte" entre o código C# (classes como Produto, Insumo) e o banco de dados relacional (tabelas do SQL Server), permitindo manipular o banco de dados usando objetos, sem a necessidade de escrever SQL manualmente.
 
-### ASP.NET Core Identity: É o framework de associação da Microsoft, responsável por toda a parte de autenticação (login, registro) e autorização (níveis de acesso, como "Gestor" e "Cozinha"). Ele gerencia usuários, senhas e roles de forma segura.
+- ASP.NET Core Identity: É o framework de associação da Microsoft, responsável por toda a parte de autenticação (login, registro) e autorização (níveis de acesso, como "Gestor" e "Cozinha"). Ele gerencia usuários, senhas e roles de forma segura.
 
-### SQL Server: É o SGBD (Sistema de Gerenciamento de Banco de Dados) utilizado para armazenar todos os dados da aplicação em um ambiente de produção.
+- SQL Server: É o SGBD (Sistema de Gerenciamento de Banco de Dados) utilizado para armazenar todos os dados da aplicação em um ambiente de produção.
 
-### SQL Server LocalDB: Uma versão mais leve do SQL Server, ideal para o ambiente de desenvolvimento. Ela roda sob demanda na máquina do desenvolvedor, sem a necessidade de instalar e gerenciar um serviço completo de banco de dados.
+- SQL Server LocalDB: Uma versão mais leve do SQL Server, ideal para o ambiente de desenvolvimento. Ela roda sob demanda na máquina do desenvolvedor, sem a necessidade de instalar e gerenciar um serviço completo de banco de dados.
 
-### Razor Views: É a "engine" de templates do ASP.NET Core que permite escrever código HTML e C# no mesmo arquivo (.cshtml) para gerar as páginas web dinamicamente no servidor.
+- Razor Views: É a "engine" de templates do ASP.NET Core que permite escrever código HTML e C# no mesmo arquivo (.cshtml) para gerar as páginas web dinamicamente no servidor.
 
-### Bootstrap: Um framework de CSS popular que fornece componentes de interface (botões, formulários, menus) prontos para uso, garantindo que o sistema tenha um design responsivo e moderno com menos esforço.
+- Bootstrap: Um framework de CSS popular que fornece componentes de interface (botões, formulários, menus) prontos para uso, garantindo que o sistema tenha um design responsivo e moderno com menos esforço.
 
-## Conceitos e Padrões
+- Conceitos e Padrões
 
-### SaaS (Software as a Service): Um modelo de licenciamento e entrega de software no qual o software é hospedado centralmente (na nuvem) e licenciado em regime de assinatura. O StockOne é um SaaS para restaurantes.
+- SaaS (Software as a Service): Um modelo de licenciamento e entrega de software no qual o software é hospedado centralmente (na nuvem) e licenciado em regime de assinatura. O StockOne é um SaaS para restaurantes.
 
-### ORM (Object-Relational Mapping): Uma técnica que converte dados entre o sistema de tipos de uma linguagem orientada a objetos (como C#) e as tabelas de um banco de dados relacional. O Entity Framework Core é a implementação de ORM deste projeto.
+- ORM (Object-Relational Mapping): Uma técnica que converte dados entre o sistema de tipos de uma linguagem orientada a objetos (como C#) e as tabelas de um banco de dados relacional. O Entity Framework Core é a implementação de ORM deste projeto.
 
-### Repository Pattern: Um padrão de projeto que cria uma camada de abstração entre a lógica de negócio e a camada de acesso a dados. Ele centraliza o código de acesso ao banco de dados em classes específicas ("repositórios"), tornando o sistema mais organizado, testável e fácil de manter.
+- Repository Pattern: Um padrão de projeto que cria uma camada de abstração entre a lógica de negócio e a camada de acesso a dados. Ele centraliza o código de acesso ao banco de dados em classes específicas ("repositórios"), tornando o sistema mais organizado, testável e fácil de manter.
 
-### Code-First: Uma abordagem de desenvolvimento do Entity Framework Core onde as classes do C# (os Models) são a "fonte da verdade". Com base nelas, o EF Core gera e atualiza automaticamente o esquema do banco de dados através de migrations.
+- Code-First: Uma abordagem de desenvolvimento do Entity Framework Core onde as classes do C# (os Models) são a "fonte da verdade". Com base nelas, o EF Core gera e atualiza automaticamente o esquema do banco de dados através de migrations.
 
-### CI/CD (Continuous Integration/Continuous Deployment): Um conjunto de práticas de automação para o ciclo de desenvolvimento. CI (Integração Contínua) consiste em mesclar automaticamente as alterações de código de vários desenvolvedores em um repositório central. CD (Implantação Contínua) consiste em implantar automaticamente a aplicação em produção após a aprovação dos testes.
+- CI/CD (Continuous Integration/Continuous Deployment): Um conjunto de práticas de automação para o ciclo de desenvolvimento. CI (Integração Contínua) consiste em mesclar automaticamente as alterações de código de vários desenvolvedores em um repositório central. CD (Implantação Contínua) consiste em implantar automaticamente a aplicação em produção após a aprovação dos testes.
 
-### Ficha Técnica: No contexto do StockOne, é o coração do sistema. Refere-se à lista de todos os insumos e suas respectivas quantidades necessárias para preparar um único produto do cardápio.
+- Ficha Técnica: No contexto do StockOne, é o coração do sistema. Refere-se à lista de todos os insumos e suas respectivas quantidades necessárias para preparar um único produto do cardápio.
 
-## Ferramentas e Plataformas
+- Ferramentas e Plataformas
 
-### Microsoft Azure: A plataforma de computação em nuvem da Microsoft onde a aplicação é hospedada.
+- Microsoft Azure: A plataforma de computação em nuvem da Microsoft onde a aplicação é hospedada.
 
-### Azure App Service: O serviço do Azure utilizado para hospedar a aplicação web StockOne, gerenciando toda a infraestrutura de servidor.
+- Azure App Service: O serviço do Azure utilizado para hospedar a aplicação web StockOne, gerenciando toda a infraestrutura de servidor.
 
-### Azure SQL Database: A versão em nuvem do SQL Server, oferecida como um serviço gerenciado pelo Azure.
+- Azure SQL Database: A versão em nuvem do SQL Server, oferecida como um serviço gerenciado pelo Azure.
 
-### GitHub Actions: A ferramenta de automação de CI/CD integrada ao GitHub, utilizada para construir e implantar automaticamente o StockOne no Azure a cada alteração na branch main.
+- GitHub Actions: A ferramenta de automação de CI/CD integrada ao GitHub, utilizada para construir e implantar automaticamente o StockOne no Azure a cada alteração na branch main.
