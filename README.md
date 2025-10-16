@@ -190,7 +190,7 @@ O sistema cria automaticamente um usuário Gestor para facilitar os testes:
 - **Insumos**: Cadastro, edição, visualização e exclusão de insumos
 - **Produtos**: Cadastro, edição, visualização e exclusão de produtos
 - **Ficha Técnica**: Associação de insumos aos produtos com quantidades específicas
-- 
+
 ### Módulo 3: Lógica de Negócio Principal
 - **EstoqueService**:
   - `DeduzirInsumosPorVenda`: Deduz insumos do estoque com base na venda
