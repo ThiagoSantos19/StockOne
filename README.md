@@ -1,3 +1,7 @@
+div align="center"
+img src="" width="100px" /
+/div
+
 # StockOne - Sistema de Automação Inteligente para Restaurantes
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-blue)
