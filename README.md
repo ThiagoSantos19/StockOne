@@ -296,7 +296,7 @@ Este glossário define os principais termos, tecnologias e conceitos utilizados 
 
 - Bootstrap: Um framework de CSS popular que fornece componentes de interface (botões, formulários, menus) prontos para uso, garantindo que o sistema tenha um design responsivo e moderno com menos esforço.
 
-- Conceitos e Padrões
+## Conceitos e Padrões
 
 - SaaS (Software as a Service): Um modelo de licenciamento e entrega de software no qual o software é hospedado centralmente (na nuvem) e licenciado em regime de assinatura. O StockOne é um SaaS para restaurantes.
 
@@ -310,7 +310,7 @@ Este glossário define os principais termos, tecnologias e conceitos utilizados 
 
 - Ficha Técnica: No contexto do StockOne, é o coração do sistema. Refere-se à lista de todos os insumos e suas respectivas quantidades necessárias para preparar um único produto do cardápio.
 
-- Ferramentas e Plataformas
+## Ferramentas e Plataformas
 
 - Microsoft Azure: A plataforma de computação em nuvem da Microsoft onde a aplicação é hospedada.
 
