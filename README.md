@@ -37,7 +37,7 @@ A cada venda, o sistema deduz automaticamente os insumos do inventário com base
 ### Equipe da Cozinha: Usa uma interface para visualizar e gerenciar a fila de produção de pedidos.
 
   <div>
-  <img src="https://github.com/user-attachments/assets/7b285364-eddd-42f1-8764-5727f986214f"  width="900px" heigth="100px"/>
+  <img src="https://github.com/user-attachments/assets/ccc15a33-1524-4d3d-92ae-37b25627e90e"  width="900px" heigth="100px"/>
 </div>
 
 ## Arquitetura e Stack Tecnológica
